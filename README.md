@@ -3,10 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Vieira;I'm+17+years+old;I+from+Brasil,+MG;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://instagram.com/033_gustavolp?igshid=MzRlODBiNWFlZA=="</a>
-</div>
-  
 ###  MInhas habilidades
 <div style="display: inline_block" title="Tecnologias"><br>
     <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
@@ -30,7 +26,11 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gustavo Vieira}/count.svg" /></p> 
 <br></div>
-  
+
+<div title="Contatos">
+  <a href="https://www.linkedin.com/in/gustavo-vieira-da-silva-54252b280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="25"></a>
+  <a href = "mailto:vieiragugu2307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25"></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
 
